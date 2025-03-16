@@ -1,3 +1,16 @@
+# This Challenge is Now Closed
+
+> ⚠️ Applications for this challenge are now closed.  
+> Thank you to everyone who participated! We are no longer reviewing new submissions.  
+
+### **Can I Still Complete the Challenge?**  
+Yes! Although we are not accepting new candidates, the challenge remains public for learning purposes. Feel free to fork the repository, explore the problem, and use it for practice.
+
+### **Already Working on the Challenge?**
+If you forked this repository before March 17, 2025 and are still working on your solution, you are welcome to submit it. Please complete your implementation and open a pull request by March 21, 2025 for consideration. After this date, we will no longer be reviewing submissions.
+
+---
+
 # Backend Challenge: Google Workspace Event Integration
 
 ## Introduction
